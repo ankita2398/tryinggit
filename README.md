@@ -1,0 +1,2 @@
+# tryinggit
+Learning git
